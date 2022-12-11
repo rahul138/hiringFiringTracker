@@ -186,7 +186,7 @@ export default function data() {
         ),
       },
       {
-        companies: <Company image={logoInvesion} name="Redesign New Online Shop" />,
+        companies: <Company image={logoInvesion} name="Invision to layoff 1000 perople" />,
         members: (
           <MDBox display="flex" py={1}>
             {avatars([

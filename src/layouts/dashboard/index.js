@@ -111,7 +111,7 @@ function Dashboard() {
                   color="info"
                   title="Top MNC layoff"
                   description="MNCs which announced layoff"
-                  date="campaign sent 2 days ago"
+                  date="updated 2 days ago"
                   chart={reportsBarChartData}
                 />
               </MDBox>

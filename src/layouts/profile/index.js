@@ -66,12 +66,12 @@ function Overview() {
               <Divider orientation="vertical" sx={{ ml: -2, mr: 1 }} />
               <ProfileInfoCard
                 title="profile information"
-                description="Hi, I’m Alec Thompson, Decisions: If you can’t decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality)."
+                description="Hi, I am rahul kumar yadav, a software engineer with passion trying to built my personal brand)."
                 info={{
-                  fullName: "Alec M. Thompson",
+                  fullName: "Rahul kumar yadav",
                   mobile: "(44) 123 1234 123",
-                  email: "alecthompson@mail.com",
-                  location: "USA",
+                  email: "rahul38ydv@mail.com",
+                  location: "Noida",
                 }}
                 social={[
                   {
@@ -106,7 +106,7 @@ function Overview() {
           </MDTypography>
           <MDBox mb={1}>
             <MDTypography variant="button" color="text">
-              Architects design houses
+              Connector library
             </MDTypography>
           </MDBox>
         </MDBox>
@@ -117,7 +117,7 @@ function Overview() {
                 image={homeDecor1}
                 label="project #2"
                 title="modern"
-                description="As Uber works through a huge amount of internal management turmoil."
+                description="Built a dashboard for connectors used for show casing company portfolio"
                 action={{
                   type: "internal",
                   route: "/pages/profile/profile-overview",
@@ -136,8 +136,8 @@ function Overview() {
               <DefaultProjectCard
                 image={homeDecor2}
                 label="project #1"
-                title="scandinavian"
-                description="Music is something that everyone has their own specific opinion about."
+                title="Onyx"
+                description="A Translation service used in adobe apps."
                 action={{
                   type: "internal",
                   route: "/pages/profile/profile-overview",
@@ -156,8 +156,8 @@ function Overview() {
               <DefaultProjectCard
                 image={homeDecor3}
                 label="project #3"
-                title="minimalist"
-                description="Different people have different taste, and various types of music."
+                title="Saleforce Health cloud"
+                description="Bulit CRM customization for Healtcare industry."
                 action={{
                   type: "internal",
                   route: "/pages/profile/profile-overview",
@@ -176,8 +176,8 @@ function Overview() {
               <DefaultProjectCard
                 image={homeDecor4}
                 label="project #4"
-                title="gothic"
-                description="Why would anyone pick blue over pink? Pink is obviously a better color."
+                title="Evaluate Service"
+                description="Built Framework to evaluate a different transaltion engines."
                 action={{
                   type: "internal",
                   route: "/pages/profile/profile-overview",
